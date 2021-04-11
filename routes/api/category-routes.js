@@ -37,7 +37,7 @@ router.post("/", async (req, res) => {
   // create a new tag
   /* req.body should look like this...
     {
-      "category_name": "Retro"
+      "category_name": "Pencils"
     }
   */
   try {
